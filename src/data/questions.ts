@@ -103,19 +103,19 @@ export const questions = [
 
 export const characterInfo = {
   SpongeBob: {
-    image: "/src/public/spongebob.jpg",
+    image: "https://raw.githubusercontent.com/salik03/spongebob-quiz/refs/heads/main/src/public/spongebob.jpg",
     description: "You're optimistic and cheerful just like SpongeBob! You enjoy simple pleasures and have a creative approach to food. Your positive energy is contagious, and you make every meal an adventure! 🧽"
   },
   Squidward: {
-    image: "/src/public/squidward.jpg",
+    image: "https://raw.githubusercontent.com/salik03/spongebob-quiz/refs/heads/main/src/public/squidward.jpg",
     description: "Sophisticated and artistic like Squidward! You have refined taste and appreciate the finer things in food. Your choices show you value quality and presentation. 🎨"
   },
   Patrick: {
-    image: "/src/public/patrick.jpg",
+    image: "https://raw.githubusercontent.com/salik03/spongebob-quiz/refs/heads/main/src/public/patrick.jpg",
     description: "Easy-going and fun-loving like Patrick! You follow your heart (and stomach) when it comes to food. You're not afraid to enjoy life's simple pleasures! ⭐"
   },
   Sandy: {
-    image: "/src/public/sandy.jpg",
+    image: "https://raw.githubusercontent.com/salik03/spongebob-quiz/refs/heads/main/src/public/sandy.jpg",
     description: "Health-conscious and practical like Sandy! You make smart food choices while still enjoying what you eat. Your balanced approach to food shows your scientific mindset! 🐿️"
   }
 };
